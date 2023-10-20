@@ -2,7 +2,7 @@
 Repository with the developed GEMs by Systems Biotechnology Group
 |Specie|Id|Description|link|
 |------|--|-----------|---|
-|P. putida KT2440| iJN1463| Pseudomonas putida KT2440 GEM|[Download](Pseudomonas_putida_KT2440/iJN1463.xml)|
+|P. putida KT2440| iJN1463| Pseudomonas putida KT2440 GEM|[Download](raw/main/GEMs/Pseudomonas_putida_KT2440/iJN1463.xml)|
 |B. subtilis sp 168| iBB1018| Bacillus subtilis strain 168|[Download](Bacillus_subtilis_168/iBB1018.xml)|
 |Synechocystis sp PCC 6803| iJN678| Synechocystis sp PCC 6803|[Download](Synechocistis/iJN678.xml)|
 |T. maritima | iTZ479v2| Thermotoga maritima GEM||
