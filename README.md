@@ -11,6 +11,6 @@ Repository with the developed GEMs by Systems Biotechnology Group
 |S. elognatus| iMS837 | Synechococcus elongatus GEM|[Download](https://github.com/SBGlab/SBG_GEMs/raw/main/GEMs/Synechococcus_elongatus/iMS837.xml)|
 |C. ijungdahlii| iHN637 | Clostridium ijungdahlii GEM|[Download](https://github.com/SBGlab/SBG_GEMs/raw/main/GEMs/Clostridium_ijungdahlii/iHN637.xml)|
 |P. pseudoalcaligenes| iRS1006| Pseudomonas alcaligenes GEM||
-|S. granuli|iIG743|Sphingopyxis granuli GEM||
+|S. granuli|iIG743|Sphingopyxis granuli GEM|[Download](https://github.com/SBGlab/SBG_GEMs/raw/main/GEMs/Sphingopyxis_granuli/iIG743.xlsx)|
 |P. chlororaphis|iMA1267|Pseudomonas chlororaphis GEM||
 |B. bacteriovorus|iCH457|Bdelovibrio bacteriovorus||
